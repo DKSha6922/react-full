@@ -1,0 +1,32 @@
+.bannerText {
+  color: rgb(179, 38, 19);
+}
+.slogan {
+  color: blue;
+}
+.code {
+  color: green;
+}
+.err {
+  color: red;
+}
+.warn {
+  color: yellow;
+}
+
+.student table {
+  border: 1px solid #ccc;
+  width: 300px;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+.student table td,
+.student table th {
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+}
+.student table th {
+  width: 100px;
+}
